@@ -99,6 +99,7 @@ jobs:
           CONFIG_TARGET_bcm27xx=y
           CONFIG_TARGET_bcm27xx_bcm2711=y
           CONFIG_TARGET_bcm27xx_bcm2711_DEVICE_rpi-4=y
+          CONFIG_ARCH_32BIT=y
           EOF
 
           # 固件压缩:
